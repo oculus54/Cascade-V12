@@ -33,7 +33,7 @@ The central objective is to reduce the information bottleneck faced by emergency
 
 | **Landslide Detection** | **Image segment** |
 |:---:|:---:|
-| <img src= "https://github.com/oculus54/Cascade-V12/blob/main/assets%2FWhatsApp%20Image%202026-08-24%20at%2021.25.16%20%287%29.jpeg" width="400"> | <img src="https://github.com/user-attachments/assets/78218063-ac20-4ea6-a6ae-4a7e9f8b7f15" width="400"> |
+| <img src= "https://github.com/oculus54/Cascade-V12/blob/main/assets%2FWhatsApp%20Image%202026-08-24%20at%2021.25.16%20%287%29.jpeg" width="400"> | <img src="https://github.com/oculus54/Cascade-V12/blob/main/assets%2FWhatsApp%20Image%202026-08-24%20at%2021.25.18%20%281%29.jpeg" width="400"> |
 
 C.A.S.C.A.D.E. addresses this gap by connecting **visual detection → spatial intelligence → risk assessment → decision support**.
 
